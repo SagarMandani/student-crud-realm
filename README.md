@@ -3,8 +3,8 @@
  How to implement CRUD operations with using Hooks and Realm
  <hr />
  In this tutorial, we'll make a simple CRUD app that can add, update, or delete student using hooks and Realm database.
- Added schema for student.
- Added common crud operation method in relam database.
+ * Added schema for student.
+ * Added common crud operation method in relam database.
   <hr />
  <div align="center">
     <img src="src/screenShot/Screenshot_1601719806.png" alt="Screenshot" height="400px width="300px"</img>
